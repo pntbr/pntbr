@@ -13,15 +13,19 @@
 }
 
 body {
+    background: #fcf9ff;
     font-family: arial;
-    width: 840px;
-    height: 592px;
+    width: 50%;
     margin: auto;
 }
 
 blockquote {
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
     font-style: italic;
-    color: #999;
+    color: #555;
+    font: .8em;
 }
 
 blockquote:before {
